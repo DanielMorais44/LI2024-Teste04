@@ -1,0 +1,4 @@
+    1  pwd
+    2  git clone https://github.com/DanielMorais44/LI2024-Teste04.git
+    3  cd LI2024-Teste04
+    4  history > cmdsTarefa2.txt
